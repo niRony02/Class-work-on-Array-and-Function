@@ -1,3 +1,7 @@
+/*Task 04: Determine Which Circle is Greater
+Write a function findArea that takes one integers as parameter and returns the area of circle.
+In main function take two radius as inputs and print the area of greater circle. */
+
 #include<stdio.h>
 
 float findArea(int rad)
