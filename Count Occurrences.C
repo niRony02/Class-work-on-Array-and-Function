@@ -1,3 +1,8 @@
+/*Task 06: Count Occurrences
+Write a function named countOccurrences that counts
+how many times a given integer appears in an array of integers.
+ */
+
 #include <stdio.h>
 
 int countOccurrences(int x, int arr[], int y) {
